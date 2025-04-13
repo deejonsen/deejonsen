@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Human Weakness Exploitation via BeEF & GoPhish**
 
-- 🌱 I’m currently learning **Penetration Testing, Security Tool Development, and Exploit Research**
+- 🌱 I’m currently learning **Penetration Testing, Security Tool Development, Digital Forensics and Incident Response and Exploit Research**
 
 - 👯 I’m looking to collaborate on **Exploring Cyber Threats, Ethical Hacking & Digital Security**
 
